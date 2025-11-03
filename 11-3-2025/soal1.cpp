@@ -6,7 +6,7 @@ Nama Program      : Jarak Titik Koordinat
 Deskripsi         : Program untuk menghitung jarak antara dua titik
                     koordinat dengan bantuan struct dan pointer
 Tanggal Pembuatan : 3 November 2025
-Durasi Pembuatan  : 5 menit 46 detik
+Durasi Pembuatan  : 27 menit 16 detik
 */
 
 
